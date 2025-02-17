@@ -54,3 +54,8 @@ Future improvements will focus on:
 - Enhancing occlusion handling for better accuracy in various environments.
 - Providing **adaptive feedback** based on real-time audience emotion data.
 
+## Repository 📂
+
+You can access the source code of this project in the GitHub repository:
+
+- [Affective Computing Repository](https://github.com/oanamariasilivastru/Affective-Computing.git)
